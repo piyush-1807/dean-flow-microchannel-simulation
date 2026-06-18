@@ -1,4 +1,4 @@
-##Numerical Study of Dean Flow Formation in Curved Microchannels
+## Numerical Study of Dean Flow Formation in Curved Microchannels
 
 ## Project Overview
 
